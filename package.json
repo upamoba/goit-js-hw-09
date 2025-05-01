@@ -19,5 +19,17 @@
     "glob": "^11.0.2",
     "simplelightbox": "^2.14.3",
     "validator": "^13.15.0"
-  }
+  },
+  "description": "",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upamoba/goit-js-hw-09.git"
+  },
+  "author": "Sysoiev_hennadii <fgmapam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upamoba/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/upamoba/goit-js-hw-09#readme"
 }
