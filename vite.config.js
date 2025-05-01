@@ -46,4 +46,3 @@ export default defineConfig(({ command }) => {
     ],
   };
 });
-import { defineConfig } from 'vite';
